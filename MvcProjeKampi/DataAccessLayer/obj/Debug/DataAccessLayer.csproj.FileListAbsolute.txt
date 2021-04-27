@@ -1,0 +1,14 @@
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\EAS\Projeler\MvcProje\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
